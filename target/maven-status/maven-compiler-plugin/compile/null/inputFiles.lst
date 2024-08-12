@@ -1,0 +1,5 @@
+/home/emanuel/FuncionarioCrud/src/main/java/org/example/endpoint/FuncionarioEndpoint.java
+/home/emanuel/FuncionarioCrud/src/main/java/org/example/controller/FuncionarioController.java
+/home/emanuel/FuncionarioCrud/src/main/java/org/example/orm/Funcionario.java
+/home/emanuel/FuncionarioCrud/src/main/java/org/example/endpoint/validations/FuncionarioValidation.java
+/home/emanuel/FuncionarioCrud/src/main/java/org/example/dto/FuncionarioDTO.java
